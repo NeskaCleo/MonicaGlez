@@ -1,24 +1,28 @@
-# Análisis de Datos en Python
+# Análisis de Datos en RStudio
 
-Práctica de análisis de datos utilizando Python. Muestro mi capacidad para análizar grandes conjuntos de datos, así como en la visualización.
+Este proyecto analiza las activaciones al servicio de urgencia SAMUR de 2017 a 2021. Descubrir patrones y evaluar el impacto de la pandemia de COVID-19 en los servicios de emergencia.
 
 ## Descripción 
 
-Carga, unión y análisis de múltiples archivos CSV. A continuación, se detallan los pasos clave y las técnicas utilizadas:
+El proceso de análisis consiste en:
 
-- **Carga y Unión de Datos**: Se cargan varios archivos CSV y se combinan en un único DataFrame para facilitar el análisis.
-- **Análisis de Datos**: Se realiza un análisis exploratorio de los datos para identificar patrones, tendencias y anomalías.
-- **Visualización de Datos**: Se utilizan bibliotecas como Matplotlib para crear gráficos que ayudan a visualizar los resultados del análisis de manera efectiva.
+- Importar y limpiar datos de varios archivos CSV.
+- Concatenar los datos en un solo dataframe para análisis.
+- Transformar y adecuar tipos de datos.
+- Identificar y tratar valores nulos y anomalías.
 
 ## Herramientas y Bibliotecas Utilizadas
 
-- **Python**: Lenguaje principal de programación.
-- **Pandas**: Para la manipulación y análisis de datos.
-- **Matplotlib**: Visualizaciones de datos.
-- **Jupyter Notebook**: Desarrollo y documentación del código.
+- `R`: Para el procesamiento y análisis de datos.
+- `tidyr`, `dplyr`: Para la manipulación y limpieza de datos.
+- `ggplot2`: Para la visualización de datos.
 
 ## Objetivo 
 
 Demostrar la capacidad de analizar e interpretar datos.
+
+
+
+
 
 
