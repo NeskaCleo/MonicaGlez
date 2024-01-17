@@ -2,7 +2,7 @@
 
 Prçactica de análisis de datos utilizando Python. Muestro mi capacidad para análizar grandes conjuntos de datos, así como en la visualización.
 
-## Descripción: 
+## Descripción 
 
 Carga, unión y análisis de múltiples archivos CSV. A continuación, se detallan los pasos clave y las técnicas utilizadas:
 
@@ -10,14 +10,14 @@ Carga, unión y análisis de múltiples archivos CSV. A continuación, se detall
 - **Análisis de Datos**: Se realiza un análisis exploratorio de los datos para identificar patrones, tendencias y anomalías.
 - **Visualización de Datos**: Se utilizan bibliotecas como Matplotlib para crear gráficos que ayudan a visualizar los resultados del análisis de manera efectiva.
 
-## Herramientas y Bibliotecas Utilizadas:
+## Herramientas y Bibliotecas Utilizadas
 
 - **Python**: Lenguaje principal de programación.
 - **Pandas**: Para la manipulación y análisis de datos.
 - **Matplotlib**: Visualizaciones de datos.
 - **Jupyter Notebook**: Desarrollo y documentación del código.
 
-## Objetivo: 
+## Objetivo 
 
 Demostrar la capacidad de analizar e interpretar datos.
 
