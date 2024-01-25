@@ -20,3 +20,19 @@ El dataset contiene registros mensuales de 20,000 clientes, incluyendo uso de da
 
 Se recomienda la implementación de modelos diferenciados para segmentos específicos de clientes, optimizando la fidelización y maximizando las oportunidades de cross-selling.
 
+# Clasificador de Imágenes con Keras y TensorFlow
+
+Este es un programa simple de clasificación de imágenes que utiliza Keras y TensorFlow para identificar imágenes de perros y gatos.
+
+## Requisitos
+
+- Keras
+- TensorFlow
+
+## Descripción
+
+El programa construye y entrena un modelo de red neuronal convolucional (CNN) para clasificar imágenes: perros y gatos. Utiliza técnicas como la convolución, max pooling y el aplanamiento (flattening) para el procesamiento y la clasificación de las imágenes.
+
+## Mejoras 
+
+Para aumentar la precisión del modelo, se recomienda utilizar un conjunto de datos más amplio para el entrenamiento. Idealmente, se deben etiquetar al menos 1000 imágenes para cada categoría (perros y gatos).
